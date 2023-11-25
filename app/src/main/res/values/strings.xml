@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Turismoapp</string>
+    <string name="title_activity_main3">MainActivity3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">TurismoApp</string>
+    <string name="nav_header_subtitle">¡Bienvenido al menu de navegacion!</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Lugares iconicos</string>
+    <string name="menu_gallery">Rutas personalizadas</string>
+    <string name="menu_slideshow">Rutas sugeridas</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="you_are_new_create_an_account">¿Tu eres nuevo? Crea una cuenta</string>
+    <string name="password">Contraseña</string>
+    <string name="defaultpassword">*********</string>
+    <string name="defaulemail">cancino@gmail.com</string>
+    <string name="email">Email</string>
+    <string name="error_empty">Por favor ingrese el valor solicitado</string>
+    <string name="invalid_email">Por favor ingrese un email valido</string>
+    <string name="short_passord">Por favor ingrese una contraseña valida</string>
+    <string name="firstname">Nombres</string>
+    <string name="defaultfirstname">Cancinoob</string>
+    <string name="lastname">Apellidos</string>
+    <string name="defaultlastname">de los palotes</string>
+    <string name="confirmpassword">Confirmar Contraseña</string>
+    <string name="signup">Registrarse</string>
+    <string name="only_letter">Por favor ingrese solo letra</string>
+    <string name="no_match_password">Contraseña no coincide</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hola somos una empresa indie, que quiere mejorar la experiencia de los turistas en la IV region, estamos haciendo contenido de calidad, porfavor profesor Abbott espero eximirme muchas gracias</string>
+</resources>

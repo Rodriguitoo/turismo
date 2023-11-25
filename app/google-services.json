@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "182985066861",
+    "firebase_url": "https://rodriguitoaps.firebaseio.com",
+    "project_id": "rodriguitoaps",
+    "storage_bucket": "rodriguitoaps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182985066861:android:0c07b84df6c261c479f264",
+        "android_client_info": {
+          "package_name": "com.proyecto.turismoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182985066861-7n6abs4ikl4hrnu4646btiiggq5nsaa7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4TvTPyDeC5yGIBwLxjPKSpJeJkS0ycsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182985066861-7n6abs4ikl4hrnu4646btiiggq5nsaa7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182985066861:android:e6db37e4e0d4ca4779f264",
+        "android_client_info": {
+          "package_name": "com.rodriguito.crudfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182985066861-h7kgc8buqp65730489d91umts3mg34in.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rodriguito.crudfirebase",
+            "certificate_hash": "1f9b2b960908ac833997a3f6d41c123574ae61b2"
+          }
+        },
+        {
+          "client_id": "182985066861-7n6abs4ikl4hrnu4646btiiggq5nsaa7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4TvTPyDeC5yGIBwLxjPKSpJeJkS0ycsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182985066861-7n6abs4ikl4hrnu4646btiiggq5nsaa7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
